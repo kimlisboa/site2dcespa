@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <!-- Meta Pixel Code -->
+    
+<!-- Meta Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1466867537434015');
+  fbq('track', 'PageView');
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1466867537434015&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+    <!-- End Meta Pixel Code -->
+
+    <head>
+        <meta charset=utf-8>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Quadra poliesportiva | Escola Uniepre</title>
+        <meta name="description" content="Aprecie algumas fotos da quadra poliesportiva - Escola Uniepre">
+        <link rel="canonical" href="https://escolauniepre.com.br/quadra-fotos" />
+        <!-- inclusão de scripts -->
+        
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-92371410-1'></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-92371410-1');
+</script>
+
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css" />
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link rel="stylesheet" type="text/css" href="css/pluton.css" />
+<link rel="stylesheet" type="text/css" href="css/jquery.cslider.css" />
+<link rel="stylesheet" type="text/css" href="css/jquery.bxslider.css" />
+<link rel="stylesheet" type="text/css" href="css/animate.css" />
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon-72.png">
+<link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57.png">
+<link rel="shortcut icon" href="images/ico/favicon.ico">
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery.mixitup.js"></script>
+<script type="text/javascript" src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/modernizr.custom.js"></script>
+<script type="text/javascript" src="js/jquery.bxslider.js"></script>
+<script type="text/javascript" src="js/jquery.cslider.js"></script>
+<script type="text/javascript" src="js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="js/jquery.inview.js"></script>
+<script type="text/javascript" src="js/jquery.mask.min.js"></script>
+<script type="text/javascript" src="js/form-validar.js"></script>
+<script src="js/respond.min.js"></script>
+
+<script type="text/javascript" src="js/app.js"></script>
+
+
+        <!-- inclusão de galeria -->
+	      <script type="text/javascript" src="plugins/unitegallery/unitegallery/js/unitegallery.min.js"></script>
+	      <link rel="stylesheet" href="plugins/unitegallery/unitegallery/css/unite-gallery.css" type="text/css" />
+	      <script type="text/javascript" src="plugins/unitegallery/unitegallery/themes/tiles/ug-theme-tiles.js"></script>
+    </head>
+
+    <body>
+        <header>
+
+          <!-- inclusão de menu principal -->
+          
+<nav class="navbar">
+    <div class="navbar-inner">
+        <div class="container">
+            <div class="brand">
+                <img src="images/logo.png" width="120" height="40" alt="Logo" />
+                <ul class="menu-tel">
+                  <li>(11) 3667-3920</li>
+                  <li>(11) 2261-2969</li>
+                  <li>
+                    <a href="https://www.instagram.com/unieprecantareira/" target="_blank"><i class="bi bi-instagram"></i></a>
+                    <a href="https://web.facebook.com/escolauniepre/" target="_blank"><i class="bi bi-facebook"></i></a>
+                    <a href="https://api.whatsapp.com/send?phone=5511949171695&amp;text=Contato%20realizado%20via%20site:%20escolauniepre.com.br%20-%20Digite%20sua%20mensagem:%20" target="_blank"><i class="bi bi-whatsapp"></i></a>
+                  </li>
+                </ul>
+            </div>
+
+            <!-- Navigation button, visible on small resolution -->
+            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                <i class="icon-menu"></i>
+            </button>
+
+            <!-- menu principal -->
+            <div class="nav-collapse collapse pull-right">
+                <ul class="nav" id="top-navigation">
+                    <li class="active"><a href="index#home">Home</a></li>
+                    <li><a href="index#cursos">Escola</a></li>
+                    <li><a href="index#diferenciais">Diferenciais</a></li>
+                    <li><a href="index#cursos-complementares">Cursos Extras</a></li>
+                    <li><a href="index#destaques">Destaques</a></li>
+                    <li><a href="index#infraestrutura">Infraestrutura</a></li>                    
+                    <li><a href="https://uniepre.com.br/f-trabalhe-conosco.php" target="blank">Trabalhe Conosco</a></li>
+                    <li><a href="index#contato">Contato</a></li>
+                    <li><a href="area-restrita" target="_blank" style="border:2px; background-color:#e60814; color:white;"><i class="bi bi-lock-fill"></i></a></li>
+                </ul>
+            </div>
+
+        </div><!-- end container -->
+    </div><!-- end navbar-inner -->
+</nav><!-- end navbar -->
+
+          <!-- section -->
+          <section>
+
+              <!-- slider -->
+              <div id="da-slider" class="da-slider bg-infraestrutura-quadra">
+                  <div class="triangle"></div>
+                  <div class="container">
+
+                      <!-- first slide -->
+                      <div class="da-slide"></div>
+
+                      <!-- second slide -->
+                      <div class="da-slide"></div>
+
+                      <!-- third slide -->
+                      <div class="da-slide"></div>
+
+                      <!-- slider navigation arrows -->
+                      <div class="da-arrows">
+                          <span class="da-arrows-prev"></span>
+                          <span class="da-arrows-next"></span>
+                      </div>
+
+                  </div><!-- end container -->
+              </div><!-- end slider -->
+          </section><!-- section -->
+        </header>
+
+        <!-- section fotos -->
+        <section class="section primary-section" id="quadra-fotos">
+            <article class="container">
+                <div class="title" style="margin-bottom: 0px;">
+                    <h1>Quadra poliesportiva - Conceito | Projeto em construção</h1>
+                    <p>Aprecie algumas imagens</p>
+                </div>
+
+                <!-- row -->
+                <div class="row-fluid">
+                  <div id="gallery" style="margin-top: 20px;">
+
+		                 <img alt="Quadra poliesportiva - Escola Uniepre" src="plugins/unitegallery/images/thumbs/quadra/escola-uniepre-quadra-1.jpg" data-image="plugins/unitegallery/images/big/quadra/escola-uniepre-quadra-1.jpg" data-description="Quadra poliesportiva - Escola Uniepre" style="display:none;">
+
+                     <img alt="Quadra poliesportiva - Escola Uniepre" src="plugins/unitegallery/images/thumbs/quadra/escola-uniepre-quadra-2.jpg" data-image="plugins/unitegallery/images/big/quadra/escola-uniepre-quadra-2.jpg" data-description="Quadra poliesportiva - Escola Uniepre" style="display:none;">
+
+                     <img alt="Quadra poliesportiva - Escola Uniepre" src="plugins/unitegallery/images/thumbs/quadra/escola-uniepre-quadra-3.jpg" data-image="plugins/unitegallery/images/big/quadra/escola-uniepre-quadra-3.jpg" data-description="Quadra poliesportiva - Escola Uniepre" style="display:none;">
+
+                     <img alt="Quadra poliesportiva - Escola Uniepre" src="plugins/unitegallery/images/thumbs/quadra/escola-uniepre-quadra-4.jpg" data-image="plugins/unitegallery/images/big/quadra/escola-uniepre-quadra-4.jpg" data-description="Quadra poliesportiva - Escola Uniepre" style="display:none;">
+
+                     <img alt="Quadra poliesportiva - Escola Uniepre" src="plugins/unitegallery/images/thumbs/quadra/escola-uniepre-quadra-5.jpg" data-image="plugins/unitegallery/images/big/quadra/escola-uniepre-quadra-5.jpg" data-description="Quadra poliesportiva - Escola Uniepre" style="display:none;">
+
+                     <img alt="Quadra poliesportiva - Escola Uniepre" src="plugins/unitegallery/images/thumbs/quadra/escola-uniepre-quadra-6.jpg" data-image="plugins/unitegallery/images/big/quadra/escola-uniepre-quadra-6.jpg" data-description="Quadra poliesportiva - Escola Uniepre" style="display:none;">
+
+                     <img alt="Quadra poliesportiva - Escola Uniepre" src="plugins/unitegallery/images/thumbs/quadra/escola-uniepre-quadra-7.jpg" data-image="plugins/unitegallery/images/big/quadra/escola-uniepre-quadra-7.jpg" data-description="Quadra poliesportiva - Escola Uniepre" style="display:none;">
+
+                     <img alt="Quadra poliesportiva - Escola Uniepre" src="plugins/unitegallery/images/thumbs/quadra/escola-uniepre-quadra-8.jpg" data-image="plugins/unitegallery/images/big/quadra/escola-uniepre-quadra-8.jpg" data-description="Quadra poliesportiva - Escola Uniepre" style="display:none;">
+
+                  </div>
+                </div>
+                <!-- end row -->
+
+                <p>&nbsp;</p>
+
+                <!-- row -->
+                <div class="row-fluid">
+
+                  <div class="span6">
+                    <div class="testimonial animated fadeInDown">
+                      <p><i>"Na escola, é preciso resgatar os valores que verdadeiramente
+socializam, privilegiam o coletivo sobre o individual, garantem a
+solidariedade e o respeito humano e levam a compreensão de que o
+jogo se faz com o outro e não contra o outro <small>(ASSIS, 2001, p. 28)."</small></i></p>
+                      <div class="whopic">
+                        <div class="arrow"></div>
+                        <i class="bi bi-arrow-up-right-square-fill" style="font-size: 2margin: 5px; color: #e60814;"></i>
+                        <strong>Gestão <span class="t-blue">Uni<span class="t-red">e</span>pre</span>
+                          <small>Autor: escolauniepre.com.br</small>
+                        </strong>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="span6">
+                    <div class="testimonial animated fadeInDown">
+                      <p><i>"A presença do esporte nas aulas de Educação Física é indispensável, já
+que sua função vai além de ensinamentos exclusivos para serem aplicados dentro
+da escola. Agrega valores e princípios para a vivência social, sendo que ela tem a
+função de educar para a vida.<small> (Faculdade Metodista Granbery)</small>"</i></p>
+                      <div class="whopic">
+                        <div class="arrow"></div>
+                        <i class="bi bi-arrow-up-right-square-fill" style="font-size: 2margin: 5px; color: #e60814;"></i>
+                        <strong>Gestão <span class="t-blue">Uni<span class="t-red">e</span>pre</span>
+                          <small>Autor: escolauniepre.com.br</small>
+                        </strong>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+                <!-- end row -->
+
+            </article>
+        </section>
+        <!-- end section fotos -->
+
+        <!-- inclusão de projetos -->
+        
+<!-- acontece na uniepre -->
+<section class="section four-section" id="projetos-uniepre">
+    <article class="container centered">
+        <div class="sub-section">
+            <div class="title clearfix">
+                <div class="pull-left">
+                    <h2>Acontece na Uniepre</h2>
+                </div>
+                <!-- controles de navegação -->
+                <ul class="client-nav pull-right">
+                    <li id="client-prev-2"></li>
+                    <li id="client-next-2"></li>
+                </ul>
+                <!-- end controles de navegação -->
+            </div>
+            <!-- start lista de posts -->
+            <ul class="row client-slider" id="acontece">
+                <li>
+                    <a href="https://escolauniepre.com.br/blog/creche-particular-superando-os-desafios-em-tempos-de-pandemia/" target="_blank">
+                        <img src="images/acontece-na-uniepre/2021/8-agosto/creche-particular-superando-os-desafios-em-tempos-de-pandemia.jpg" alt="creche-particular-superando-os-desafios-em-tempos-de-pandemia">
+                        <h3 class="highlighted-box">Creche particular | Superando os desafios em tempos de Pandemia</h3>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://escolauniepre.com.br/blog/a-primeira-crianca-da-uniepre/" target="_blank">
+                        <img src="images/acontece-na-uniepre/2021/8-agosto/a-primeira-crianca-da-uniepre.jpg" alt="A primeira criança da Uniepre">
+                        <h3 class="highlighted-box">A primeira criança da Uniepre</h3>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://escolauniepre.com.br/blog/creche-particular-superando-os-desafios-em-tempos-de-pandemia/" target="_blank">
+                        <img src="images/acontece-na-uniepre/2021/8-agosto/creche-particular-superando-os-desafios-em-tempos-de-pandemia.jpg" alt="creche-particular-superando-os-desafios-em-tempos-de-pandemia">
+                        <h3 class="highlighted-box">Creche particular | Superando os desafios em tempos de Pandemia</h3>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://escolauniepre.com.br/blog/a-primeira-crianca-da-uniepre/" target="_blank">
+                        <img src="images/acontece-na-uniepre/2021/8-agosto/a-primeira-crianca-da-uniepre.jpg" alt="A primeira criança da Uniepre">
+                        <h3 class="highlighted-box">A primeira criança da Uniepre</h3>
+                    </a>
+                </li>
+            </ul><!-- end lista de posts -->
+        </div><!-- end sub-section -->
+    </article>
+</section>
+<!-- acontece na uniepre -->
+
+        <!-- contato -->
+        
+<!-- section contato -->
+<section class="section primary-section" id="contato">
+    <div class="triangle"></div>
+    <div class="container">
+        <div class="title">
+            <h2>Gostaria de conhecer a unidade?<br />Escolha uma opção de contato!</h2>
+            <p><i>Horário de atendimento: Das 5h30 às 20h</i></p>
+        </div>
+        <div class="row-fluid cursos-complementares">
+
+            <div class="span3" id="first-person">
+                <a href="contato">
+                <div class="thumbnail">
+                    <img src="images/contato-agendamento-de-visita.jpg" alt="agendamento de visita">
+                    <h3>Agendar visita presencial na Unidade</h3>
+                    <div class="mask">
+                        <h2>Agendar!</h2>
+                        <p>[ Clique aqui para iniciar o processo de agendamento ]</p>
+                    </div>
+                </div>
+                </a>
+            </div>
+
+            <div class="span3">
+                <a href="contato-video-chamada">
+                <div class="thumbnail">
+                    <img src="images/contato-video-conferencia.jpg" alt="vídeo conferência">
+                    <h3>Agendar vídeo chamada com a coordenação</h3>
+                    <div class="mask">
+                        <h2>Agendar!</h2>
+                        <p>[ Clique aqui para iniciar o processo de agendamento ]</p>
+                    </div>
+                </div>
+                </a>
+            </div>
+
+            <div class="span3" id="second-person">
+              <div class="thumbnail">
+                  <img src="images/contato-tel.jpg" alt="Números Uniepre Unidade Cantareira">
+                  <h3>Telefones<br />da Unidade</h3>
+                  <div class="mask">
+                      <h2>Ligar!</h2>
+                      <p>[ Aguardamos sua ligação ]</p>
+                  </div>
+              </div>
+            </div>
+
+            <div class="span3" id="third-person">
+              <a href="https://api.whatsapp.com/send?phone=5511949171695&amp;text=Contato%20realizado%20via%20site:%20escolauniepre.com.br%20-%20Digite%20sua%20mensagem:%20" target="_blank">
+                <div class="thumbnail">
+                  <img src="images/contato-whats.jpg" alt="whatsapp comercial">
+                  <h3>Conversar com equipe de atendimento</h3>
+                  <div class="mask">
+                    <h2>Iniciar!</h2>
+                    <p>[ Clique aqui para iniciar conversa via whatsapp ]</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+        </div><!-- row -->
+    </div><!-- container -->
+
+    <div class="container">
+        <div class="title">
+            <h2>Localização</h2>
+            <p><i>Traçar rota até a Unidade</i></p>
+        </div>
+        <div class="row-fluid cursos-complementares">
+          <a href="https://www.google.com/maps/dir//Av.+Nova+Cantareira,+3207+-+Tucuruvi,+S%C3%A3o+Paulo+-+SP,+02340-000/@-23.4722528,-46.6173285,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x94cef65c764dfc5b:0xabfe3875244f65f6!2m2!1d-46.6173377!2d-23.4724157" target="_blank">
+            <div class="span12" id="first-person">
+                <div class="thumbnail">
+                    <img src="images/mapa-de-localizacao-escola-uniepre.jpg" alt="mapa de localização escola uniepre">
+                    <h3>Av. Nova Cantareira, 3207 - Tucuruvi, São Paulo - SP</h3>
+                    <div class="mask">
+                        <h2>Traçar rota</h2>
+                        <p>[ Clique aqui para checar a melhor rota até a Unidade ]</p>
+                    </div>
+                </div>
+            </div>
+          </a>
+        </div><!-- row -->
+    </div><!-- container -->
+</section>
+<!-- end section contato -->
+
+<!-- footer -->
+<footer>
+  <div class="section footer">
+      <div class="container">
+          <!-- Start title section -->
+          <div class="title" style="margin-bottom: 0px;">
+              <h2>Universo Uniepre</h2>
+              <p>Nosso modelo organizacional vai além de uma unidade particular referência na zona norte de São Paulo. O que há por traz deste consolidado projeto educacional?</p>
+          </div>
+          <div class="row-fluid">
+              <a href="#">
+              <div class="span3">
+                  <div class="centered">
+                      <div class="zoom-in circle-border">
+                          <img src="images/logo-grupo-uniepre.png" alt="portal uniepre">
+                      </div>
+                      <h4>Portal Uniepre</h4>
+                      <p style="color:#fff;">Concentra todos os serviços ligados à nossa expertise de atuação, sendo nossa base e principal aporte de pesquisa, embasamento e desenvolvimento.</p>
+                  </div>
+              </div>
+              </a>
+              <div class="span3">
+                  <div class="centered">
+                      <div class="zoom-in circle-border">
+                          <img src="images/logo-centro-de-formacao.png" alt="centro de formação uniepre">
+                      </div>
+                      <h4>Cursos, oficinas e treinamentos</h4>
+                      <p style="color:#fff;">Projeto de formação continuada, focado em consolidar a proficiência absoluta para que nossos colaboradores possam atuar sempre com a plena excelência.</p>
+                  </div>
+              </div>
+              <div class="span3">
+                  <div class="centered">
+                      <div class="zoom-in circle-border">
+                          <img src="images/logo-blog-institucional.png" alt="Blog Institucional Uniepre">
+                      </div>
+                      <h4>Base de experiências/Blog</h4>
+                      <p style="color:#fff;">São 7 Unidades educacionais, compartilhando projetos, vivências e grandes evoluções. Confira este incrível acervo de experiências!</p>
+                  </div>
+              </div>
+              <div class="span3">
+                  <div class="centered">
+                      <div class="zoom-in circle-border">
+                          <img src="images/logo-pluriservice.png" alt="Segmento de Serviços e Facilities">
+                      </div>
+                      <h4>Segmento de Serviços e Facilities</h4>
+                      <p style="color:#fff;">Nutrição para crianças e adolescentes, Higiene Ambiental, Manutenção e Obras de Escolas, Portaria e Recepção, são alguns dos serviços que esta divisão UNIEPRE oferece.</p>
+                  </div>
+              </div>
+          </div><!-- row -->
+      </div>
+  </div>
+
+  <!-- section author -->
+  <div class="footer author" style="padding: 20px; font-size: 12px;">
+        Copyright © 2021 - Todos os direitos reservados Uniepre | <a href="https://api.whatsapp.com/send?phone=5511976330507&amp;text=Desenvolvimento%20de%20sites%20profissionais:%20Kurt%20Kreuser%20-%20Digite%20sua%20mensagem:%20" target="_blank">Desenvolvido por Fabricando Clientes</a>
+        <svg class="svg-inline--fa fa-whatsapp fa-w-14" aria-hidden="true" data-prefix="fab" data-icon="whatsapp" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="" width="15px" style="width:18px; height:18px;">
+          <path fill="currentColor" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z">
+        </path>
+      </svg>
+      <br>
+      <span style="color:#FFF;"><a href="https://www.uniepre.com.br/politica-de-privacidade.php" target="_blank" style="color:#FFF;">Política de Privacidade</a></span> | <span style="color:#FFF;"><a href="https://www.uniepre.com.br/termos-de-uso-do-site.php" target="_blank" style="color:#FFF;">Política de Privacidade de Dados e Termos de uso do Site</a></span>
+  </div>
+
+  <div class="footer-social">
+    <a href="https://api.whatsapp.com/send?phone=5511949171695&amp;text=Contato%20realizado%20via%20site:%20escolauniepre.com.br%20-%20Digite%20sua%20mensagem:%20" target="_blank" style="position:fixed;bottom:76px;right:20px;">
+      <svg enable-background="new 0 0 512 512" width="40" height="40" version="1.1" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+        <path d="M256.064,0h-0.128l0,0C114.784,0,0,114.816,0,256c0,56,18.048,107.904,48.736,150.048l-31.904,95.104  l98.4-31.456C155.712,496.512,204,512,256.064,512C397.216,512,512,397.152,512,256S397.216,0,256.064,0z" fill="#4CAF50"></path><path d="m405.02 361.5c-6.176 17.44-30.688 31.904-50.24 36.128-13.376 2.848-30.848 5.12-89.664-19.264-75.232-31.168-123.68-107.62-127.46-112.58-3.616-4.96-30.4-40.48-30.4-77.216s18.656-54.624 26.176-62.304c6.176-6.304 16.384-9.184 26.176-9.184 3.168 0 6.016 0.16 8.576 0.288 7.52 0.32 11.296 0.768 16.256 12.64 6.176 14.88 21.216 51.616 23.008 55.392 1.824 3.776 3.648 8.896 1.088 13.856-2.4 5.12-4.512 7.392-8.288 11.744s-7.36 7.68-11.136 12.352c-3.456 4.064-7.36 8.416-3.008 15.936 4.352 7.36 19.392 31.904 41.536 51.616 28.576 25.44 51.744 33.568 60.032 37.024 6.176 2.56 13.536 1.952 18.048-2.848 5.728-6.176 12.8-16.416 20-26.496 5.12-7.232 11.584-8.128 18.368-5.568 6.912 2.4 43.488 20.48 51.008 24.224 7.52 3.776 12.48 5.568 14.304 8.736 1.792 3.168 1.792 18.048-4.384 35.52z" fill="#FAFAFA" id="whats-bot-footer">
+        </path>
+      </svg>
+    </a>
+  </div>
+
+  <!-- bot ScrollUp button start -->
+  <div class="scrollup">
+      <a href="#">
+          <i class="icon-up-open"></i>
+      </a>
+  </div>
+
+</footer>
+
+        <script>
+          //start galeria
+          jQuery(document).ready(function(){ jQuery("#gallery").unitegallery(); });
+        </script>
+
+    </body>
+</html>
